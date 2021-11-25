@@ -1,4 +1,4 @@
-package daniel.lop.io.marvelappstarter
+package daniel.lop.io.marvelappstarter.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
